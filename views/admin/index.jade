@@ -1,0 +1,30 @@
+extends ../layoutC.jade
+block contenido
+	h1(style="margin-left:20px;") Panel de administración
+	table(class="table")
+		caption(style="margin-left:20px;") Productos Actuales
+		thead
+			tr
+				th(class="text-center") #
+				th(class="text-center") Nombre
+				th(class="text-center") Descripción
+				th(class="text-center") Precio
+				th(class="text-center") Imágenes
+				th(class="text-center") Opciones
+		tbody
+			-var claves=Object.keys(productos);
+			-var i=0;
+			each producto in productos
+
+				tr
+					td(class="text-center")= claves[i]
+					td(class="text-center")= producto.title
+					td(class="text-center")= producto.decription
+					td(class="text-center")= producto.pricing
+					td(class="text-center")
+						a(href="#{producto.imageURL}" class="btn") Ver Imagen
+					td(class="text-center")
+						a(href="/menu/edit/#{claves[i]}") Editar
+						=" - " 
+						a(href="/menu/delete/#{claves[i]}") Eliminar
+				-i++;

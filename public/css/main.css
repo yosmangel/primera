@@ -1,0 +1,102 @@
+img{
+	max-width: 80%;
+}
+#imgPrincipal{
+	max-width: 60%;
+}
+.quitar-float{
+	float:none;
+}
+
+.espacio-arriba{
+	margin-top: 70px;
+}
+
+body{
+	background-color: #F7DEE8;
+	font-family: 'Slabo 27px',serif;
+}
+
+.roboto{
+	font-family: 'Roboto Condensed', sans-serif;
+
+}
+
+.letraGrande{
+	font-size: 4em;
+}
+
+.verde{
+		color: #00C9B8;
+}
+
+a{
+	color: #1582F7;
+}
+
+.espacioLinkDerecha{
+
+	margin-right: 1em;
+}
+
+.inlineblock{
+	float: none;
+	display: inline-block;
+	margin-right: -4px;
+	
+}
+.nolista li{
+	list-style-type: none;
+}
+
+.nolista{
+	padding: 0px;
+	margin:0px;
+}
+
+.paddinglargo{
+	padding: 5px 10px;
+}
+
+.segris{
+	background-color: #DEE9F3;
+}
+
+.azul{
+	color: #1582F7;
+}
+
+p{
+	margin-bottom: 30px;
+}
+
+#heladoOferta{
+	max-width: 40%;
+}
+
+.veteArriba{
+	vertical-align: top;
+}
+
+.medioano{
+	font-size: 1.5em;
+}
+
+iframe{
+	margin-bottom: 30px;
+}
+
+.retraso1{
+	-webkit-animation-delay:1s;
+	-moz-animation-delay:1s;
+	animation-delay: 1s;
+}
+
+.duracionAnimation{
+	animation-duration: 0.5s;
+}
+
+.btn-info{
+	background-color:#1582F7,
+	color:white; 
+}

@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "primera-4192e",
+  "private_key_id": "236ea37911a0efe23713c60783770e0e521be592",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCWZd+RTI4ZciVM\n6l8pxudX1M2pJwQuVo4h+SsfixtKIvYFzWftfItk9L9gdBlSd9zg89NWvlSHFCOT\nPeTpEEsJYudqjEUwSYGN7BKNnhEeC7ZO1UOoJUrTRmIVVH82DI6S5AVTZbeDHZlK\nUF1Do9JXhmE7F+aGWXW4m+jc22kRcayek+HqsX2AOljtVfCmRRb8wWrZVZfj9Wnl\nhajVMd5SgjJYIVCItFWHrfg0MMwV60J6T49FQyhF4zvu31gK1ZLUuL39dcktgTd3\noo/HxKeF+WnJ47f0TsEazeNpSpGXNFWOQblpuYDC03QVbJU1FWZQyteCPjI++ypO\nDLTub01xAgMBAAECggEAJ1FYohaea36Qy8vVtwk9v5NtdJQznp2YKL+IC4YFS1ta\nb+fkDIzrsCffxCp12D5nqxNzI5E8bdfQ+RRMPLW6uCh4ET28dMQyr1SRAR7aoL01\nGuTb/CBLsHINAECHxSyBNVuRHN1RnWBmi6v4xc8VFTaXQqib5nGKuglgViSyEhH8\nB0X5wpOVpZgUrOhukIgfRowPPnnlka2hAIZhVOX9LxuyUykulhZZMxnLLone0Src\npxm/LQSw3sYx3lJJmQL4YuWYYvjt4hCMpIRlNHX+cjjHg28lmrTtaOSuUoiHlAxL\nBxCMi19iAYDrdRjI1qO2zHxS//H+I5dFOS+5X7fk1QKBgQDKTACy3d8d6XGB2Dx4\nWhpSiWLvi7jEeX7JQbFNuuYIaaAz7lhISKxF1/qvLtnPD1WMJRR9oqhTHVYf5xj2\nGSpIJK9fUIYO36L8Kt6/obnScjmRNS1mz8DAorxYEIipsRUX8oF0/R2c+x1NOdxY\n9IIWgh+fX2sB86qMlm7XzyJ59wKBgQC+UtgFTx0rWW/jCT+6p7iN32yPYIq7AdJ3\nIQWuaivE3AjWGh9PiLXBweol0+GZbBrkbeio+HK67aoDNEE02EY396dNPqkKJ2av\niDffBJlsrLixWuwAspmBYCzPY5exeMdpMEuIKDxcQjEMuVfBf3zVIZCV5ICWoz30\n1jfvv4xZ1wKBgQDJtRKVRokryBJ3h2Z0ElNgrMBLXaOzs/jpL2lcudiX1sn4PdUk\n7eFoGrxIZIyk2wNPo8FUrBTuGrg/QywuZlU0be+3OBETT4WxrgVASj+ASIiB8uX8\nN3ZYHWty27mIiZsgr5rJTYBzgCdtUx4UTGhRjRl+zaNi5NTPLUgEQvJ7bQKBgEn/\nmeAOj4/QOVFzwiSHm5kFuobQiYAGSFdrLnNO8m+bAZCFHZFl3Q1VoP1OMVPelWIl\nXaV829bUGxsd0RCD2mFeV90PtNeu1B0BgH+koSaAzVqfuEzZJBgKVcHYvh0Rka7T\nSTrKMhXI4ptI4NbqA5Y2c6nj6x8mnys3sw3zUtWHAoGATKNDV6dhAi3COKOTFvJw\ncEEnD+l0MNIftWurkj3YFkq3DyJ8G1fUPLDxstDJkQt13Gsx+vWjXeY2ye6VDnz1\nHFmkA7Nn31lWHOPFj/awPHwuz/8Hf5nQ8aUfuFC490fsoDR3s0YuPzvXUJe9sr+A\nLeLo9ptSe+ES/UeDN8TI3Ew=\n-----END PRIVATE KEY-----\n",
+  "client_email": "primera@primera-4192e.iam.gserviceaccount.com",
+  "client_id": "100259972373969078854",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/primera%40primera-4192e.iam.gserviceaccount.com"
+}

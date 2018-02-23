@@ -1,0 +1,10 @@
+extends ../layoutC.jade
+block contenido
+	div(class="col-md-5 center-block quitar-float espacio-arriba text-left")
+		h1 Login administradores
+		form(method="POST" action="/admin" style="margin-top:2em;")
+			div(class="form-group")
+				label Contraseña
+				input(type="password" name="password" placeholder="Contraseña" class="form-control")
+			div(class="form-group text-right")
+				input(type="submit" name="conectar" value="Conectar" class="btn btn-info")

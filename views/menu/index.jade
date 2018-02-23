@@ -1,0 +1,10 @@
+extends ../layoutC.jade
+block contenido
+	h2(class="grande azul roboto text-center") Menú
+	each producto in productos
+		div(class="col-md-4 col-sm-6 col-xs-12 inlineblock text-center")
+			h3(class="text-center")= producto.title
+			img(src="#{producto.imageURL}" class="col-xs-7 col-md-4 quitar-float text-center")
+			p(style="margin-top:1em;" class="text-center")
+				small #{producto.pricing}USD
+
